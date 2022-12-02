@@ -1,0 +1,31 @@
+:root{
+    transform: none;
+    animation: none;
+}
+
+body{
+    background-color: gray;
+}
+
+.breadcrumb-item.active {
+    color: #445f76;
+}
+
+
+a,h6{
+ color: #ffffff70;
+ cursor: pointer;
+}
+
+h6:hover{
+    color: green;
+}
+
+input[type="radio"]{
+    width: 50px;
+}
+
+.pergunta{
+    border-radius: 50px;
+    border-radius: 42px;
+}
